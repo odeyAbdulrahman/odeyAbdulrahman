@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=odeyabdulrahman&label=Profile%20views&color=0e75b6&style=flat" alt="odeyabdulrahman" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=odeyabdulrahman" alt="odeyabdulrahman" /></a> </p>
+
 - 🌱 I’m currently learning **NET 7.0,GC management, Kafka**
 
 - 📝 I regularly write articles on [https://medium.com/@odey.abdalrahman](https://medium.com/@odey.abdalrahman)
@@ -25,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=odeyabdulrahman&show_icons=true&locale=en&layout=compact" alt="odeyabdulrahman" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=odeyabdulrahman&show_icons=true&locale=en" alt="odeyabdulrahman" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=odeyabdulrahman&" alt="odeyabdulrahman" /></p>
