@@ -1,5 +1,4 @@
-<h1 align="center">Senior software engineer Odey Abdalrahman</h1>
-<h3 align="center">Experienced Software Developer with Expertise in Full-Stack Development and Project Leadership</h3>
+<h3 align="center">Senior Software Engineer with full development and project lead experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=odeyabdulrahman&label=Profile%20views&color=0e75b6&style=flat" alt="odeyabdulrahman" /> </p>
 
