@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=odeyabdulrahman" alt="odeyabdulrahman" /></a> </p>
 
-- 🌱 I’m currently learning **NET 8.0,GC management, Kafka**
+- 🌱 I’m currently learning **NET 9.0,GC management, Kafka**
 
 - 📝 I regularly write articles on [https://medium.com/@odey.abdalrahman](https://medium.com/@odey.abdalrahman)
 
